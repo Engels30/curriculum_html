@@ -1,0 +1,24 @@
+body {
+   
+   margin: 0 auto;
+   border: 5px solid rgb(26, 26, 176);
+ }
+.container {
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   grid-gap: 10px;
+ }
+ 
+ .item {
+   background-color: #fff000;
+   padding: 20px;
+ }
+ 
+ ul {
+   display: flex;
+   flex-direction: column;
+ }
+ 
+ li {
+   margin-bottom: 10px;
+ }
