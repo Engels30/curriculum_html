@@ -1,0 +1,77 @@
+{
+    "header": {
+      "title": "Curriculum Vitae de Engels Zaldivar",
+      "image": {
+        "src": "engels.jpg",
+        "alt": "Engels Zaldivar"
+      },
+      "nav": {
+        "links": [
+          {
+            "href": "#datos-personales",
+            "text": "Datos personales"
+          },
+          {
+            "href": "#formacion-academica",
+            "text": "Formación académica"
+          },
+          {
+            "href": "#experiencia-laboral",
+            "text": "Experiencia laboral"
+          }
+        ]
+      }
+    },
+    "main": {
+      "sections": [
+        {
+          "id": "datos-personales",
+          "title": "Datos personales",
+          "items": [
+            {
+              "label": "Nombre completo:",
+              "value": "Bruce Wayne"
+            },
+            {
+              "label": "Fecha de nacimiento:",
+              "value": "1/5/1939"
+            },
+            {
+              "label": "Lugar de nacimiento:",
+              "value": "Gotham City"
+            }
+          ]
+        },
+        {
+          "id": "formacion-academica",
+          "title": "Formación académica",
+          "items": [
+            {
+              "label": "<strong>1956-1961:</strong>",
+              "value": "<strong>Universidad del Espantapájaros</strong>"
+            },
+            {
+              "label": "<strong>1952-1956:</strong>",
+              "value": "<strong>Instituto de Dos Caras</strong>"
+            },
+            {
+              "label": "<strong>1944-1952:</strong>",
+              "value": "<strong>Escuela Primaria del Joker</strong>"
+            }
+          ]
+        },
+        {
+          "id": "<section id=\"experiencia-laboral\">",
+          "title":"Experiencia laboral",
+          'items':[
+              {"label":"<strong>1975-1985:</strong>", 'value':'En el paro'},
+              {"label":"<strong>1965-1975:</strong>", 'value':'Cazavillanos y demás chusma'},
+              {"label":"<strong>1962-1965:</strong>", 'value':'Aprendiz de superhéroe'}
+          ]
+        }
+      ]
+    },
+    'footer':{
+      'text':'&copy; 2023 Bruce Wayne en honduras. Todos los derechos reservados.'
+    }
+  }
